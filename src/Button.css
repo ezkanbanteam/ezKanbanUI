@@ -1,0 +1,23 @@
+.function-button > img{
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.function-button:hover{
+    background-color: whitesmoke;
+}
+
+.position-toggle-button-right{
+    width: 50px;
+    float: right;
+}
+
+.toggle-button{
+    border: none;
+    box-shadow: none;
+    background: transparent;
+}
+
+.toggle-button:hover{
+    background: transparent;
+}

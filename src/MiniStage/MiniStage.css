@@ -1,0 +1,27 @@
+.mini-stage{
+    float: left;
+    width: max-content;
+}
+
+
+.container-swim-lanes{
+    width: max-content;
+    height: auto;
+    min-height: 100%;
+    background: transparent;
+}
+
+.mini-stage-card {
+    width: 300px;
+    height: max-content;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 5px;
+    float:left;
+}
+
+.mini-stage-card-text {
+    border-bottom: 5px white dashed;
+}
+
+

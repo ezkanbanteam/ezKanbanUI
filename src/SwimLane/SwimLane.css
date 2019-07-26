@@ -1,0 +1,38 @@
+.swim-lane{
+    height: auto;
+    min-height: 300px;
+    border-bottom: 5px white dashed;
+    /* border-top: 5px white dashed; */
+}
+
+.swim-lane-header{
+    background: transparent;
+    vertical-align: top;
+    padding: 10px;
+    width: 300px;
+    height: 50px;
+    word-wrap: break-word;
+    white-space: normal;
+    word-break: keep-all;
+    -webkit-hyphens: auto;
+    hyphens: manual;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    font-size: 20px;
+}
+
+.container-work-items{
+    width: 300px;
+    height: auto;
+    background: transparent;
+}
+
+.swim-lane-card {
+    width: 260px;
+    /* height: 300px; */
+    height: max-content;
+    margin-left: 0px;
+    margin-top: 10px;
+    float:left;
+    /* border-top: 5px black dashed; */
+}

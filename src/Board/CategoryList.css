@@ -1,0 +1,9 @@
+.color-picker-position {
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.editCategory {
+    display: flex;
+    float: right;
+}
